@@ -1,0 +1,4 @@
+get an API Key
+Add to .streamlit/secrets.toml
+huggingface-cli login with API Key
+streamlit run main.py 
